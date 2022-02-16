@@ -9,3 +9,4 @@ Table of Contents
 Create_Project
 ============
  + D:\Django_Project>django-admin startproject mypage
+ + 
